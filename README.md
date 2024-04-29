@@ -1,11 +1,11 @@
 # Bid_Pin - Platform Lelang dan Penawaran Multivendor
 
-![Bid_Pin - Platform Lelang dan Penawaran Multivendor](Bid_Pin---Multivendor-Auction-Bidding-Platform\preview.avif)
+![Bid_Pin - Platform Lelang dan Penawaran Multivendor](preview.avif)
 
 
 Bid_Pin adalah platform lelang dan penawaran canggih yang dibangun menggunakan framework Laravel 10, dirancang untuk memfasilitasi kegiatan lelang dan penawaran global. Platform tangguh ini memungkinkan pengguna dari seluruh dunia untuk terlibat dalam proses jual beli barang melalui proses penawaran yang kompetitif. Untuk memastikan lingkungan yang aman dan dapat diandalkan, Bid_Pin menggabungkan sistem verifikasi Kenali Pelanggan Anda (KYC), yang harus diselesaikan oleh para vendor sebelum mereka diotorisasi untuk mencantumkan barang-barang mereka untuk dilelang. Hal ini memastikan bahwa semua transaksi dilakukan dengan transparansi dan integritas.
 
-![Bid_Pin - Platform Lelang dan Penawaran Multivendor](Bid_Pin---Multivendor-Auction-Bidding-Platform\1.png)
+![Bid_Pin - Platform Lelang dan Penawaran Multivendor](1.png)
 
 ## Akses Demo:
 - Demo: [https://preview.wstacks.com/bid_pin](https://preview.wstacks.com/bid_pin)
